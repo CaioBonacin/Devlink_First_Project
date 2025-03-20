@@ -44,8 +44,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 💻 Telas
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/ex1.png" width="40%" height="600px">
-  <img alt="projeto DevLinks" src=".github/ex2.png" width="40%" height = "600px">
+  <img alt="projeto DevLinks" src=".github/ex1.PNG" width="40%" height="600px">
+  <img alt="projeto DevLinks" src=".github/ex2.PNG" width="40%" height = "600px">
 </p>
 
 
